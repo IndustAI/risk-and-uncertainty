@@ -1,0 +1,24 @@
+{'Notes': 'DQN',
+ 'adam_epsilon': 1e-08,
+ 'env': '<environments.minatar_wrappers.MinatarWrapper object at '
+        '0x7f3bf7faf750>',
+ 'final_exploration_rate': 0.03,
+ 'final_exploration_step': 100000,
+ 'gamma': 0.99,
+ 'initial_exploration_rate': 1,
+ 'learning_rate': 0.0001,
+ 'loss': 'huber',
+ 'minibatch_size': 32,
+ 'network': 'CNNMinAtar(\n'
+            '  (conv): Conv2d(7, 16, kernel_size=(3, 3), stride=(1, 1))\n'
+            '  (fc_hidden): Linear(in_features=1024, out_features=128, '
+            'bias=True)\n'
+            '  (output): Linear(in_features=128, out_features=6, bias=True)\n'
+            ')',
+ 'replay_buffer_size': 100000,
+ 'replay_start_size': 5000,
+ 'seed': 578987,
+ 'train_steps': 5000000,
+ 'update_frequency': 1,
+ 'update_target_frequency': 1000,
+ 'weight_scale': 1.4142135623730951}

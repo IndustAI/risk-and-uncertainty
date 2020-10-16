@@ -1,0 +1,29 @@
+{'Notes': 'Bootstrapped',
+ 'adam_epsilon': 1e-08,
+ 'env': '<environments.minatar_wrappers.MinatarWrapper object at '
+        '0x7f5c102be110>',
+ 'final_exploration_rate': 0.03,
+ 'final_exploration_step': 100000,
+ 'gamma': 0.99,
+ 'initial_exploration_rate': 1,
+ 'learning_rate': 0.0001,
+ 'loss': 'huber',
+ 'minibatch_size': 32,
+ 'n_heads': 10,
+ 'network': 'CNNMinAtar_k_head(\n'
+            '  (conv): Conv2d(10, 16, kernel_size=(3, 3), stride=(1, 1))\n'
+            '  (output): Sequential(\n'
+            '    (0): Conv1d(10240, 1280, kernel_size=(1,), stride=(1,), '
+            'groups=10)\n'
+            '    (1): ReLU()\n'
+            '    (2): Conv1d(1280, 60, kernel_size=(1,), stride=(1,), '
+            'groups=10)\n'
+            '  )\n'
+            ')',
+ 'replay_buffer_size': 100000,
+ 'replay_start_size': 5000,
+ 'seed': 664138,
+ 'train_steps': 5000000,
+ 'update_frequency': 1,
+ 'update_target_frequency': 1000,
+ 'weight_scale': 1.4142135623730951}
