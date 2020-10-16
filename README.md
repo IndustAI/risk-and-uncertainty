@@ -10,6 +10,6 @@ In addition to these requirements, the MinAtar package should also be installed 
 
 # Structure
 
-Each folder is self-contained, and contains the code to reproduce the results presented in specific parts of our paper (figures 1-4 in the main text, and all figures in the supplementary materials). Each folder contains its own README with specific instructions for training and evaluation.
+Each folder is self-contained, and contains the code to reproduce the results presented in specific parts of our paper (figures 1-3 in the main text, and all figures in the supplementary materials). Each folder contains its own README with specific instructions for training and evaluation.
 
 In all cases, we have included raw results from one pre-trained agent per algorithm, as well as code to plot its training curve. We have also included network weights for one seed of all agents for all games on the MinAtar suite.
