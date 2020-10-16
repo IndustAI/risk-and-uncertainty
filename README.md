@@ -6,7 +6,7 @@ Code associated with our paper "Estimating Risk and Uncertainty in Deep Reinforc
 
 Requirements can be found in the requirements.txt file. 
 
-In addition to these requirements, the MinAtar package should also be installed to reproduce the experiments presented in figure 4. See <a href="https://github.com/kenjyoung/MinAtar">this github repo</a> for installation instructions.
+In addition to these requirements, the MinAtar package should also be installed to reproduce the experiments presented in figure 3. See <a href="https://github.com/kenjyoung/MinAtar">this github repo</a> for installation instructions.
 
 # Structure
 
