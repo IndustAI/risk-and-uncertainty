@@ -1,6 +1,6 @@
 # Risk and Uncertainty in Deep Reinforcement Learning
 
-Code associated with our paper "Estimating Risk and Uncertainty in Deep Reinforcement Learning", which was presented at the 2020 Workshop on Uncertainty and Robustness in Deep Learning at ICML 2020. You can find our paper <ahref="https://arxiv.org/abs/1905.09638">here</a>.
+Code associated with our paper "Estimating Risk and Uncertainty in Deep Reinforcement Learning", which was presented at the 2020 Workshop on Uncertainty and Robustness in Deep Learning at ICML 2020. You can find our paper <a href="https://arxiv.org/abs/1905.09638">here</a>.
 
 # Requirements
 
