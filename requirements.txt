@@ -6,7 +6,7 @@ future==0.18.2
 gym==0.17.1
 kiwisolver==1.1.0
 matplotlib==3.2.1
-numpy==1.18.2
+numpy==1.22.0
 opencv-python==4.2.0.32
 pandas==1.0.3
 Pillow==7.0.0
